@@ -10,3 +10,6 @@ An exemplification of 3D rendering inspiring by the raycasting technology utiliz
 * Walls and tiles textures
 * Horizomental walls
 * Texture mapped floor and ceiling.
+
+see /docs folder for source code
+see https://leonovis.github.io/mazetest/ for live demo

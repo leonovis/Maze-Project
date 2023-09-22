@@ -4,7 +4,7 @@ An exemplification of 3D rendering inspiring by the raycasting technology utiliz
 * Landing page built with React (Vite)
 
   
-/Raycaster-html - Source code folder for All rendering resources concerning the 3D environment
+/Docs - Source code folder for All rendering resources concerning the 3D environment
 * utilization of a single canvas for rendering
 * Unit circle coordinates are used for the player's rotation
 * Walls and tiles textures
